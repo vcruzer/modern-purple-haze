@@ -1,16 +1,29 @@
-# purple-dark-modern README
+# Modern Purple Raze README
 
-## Working with Markdown
+A Purple theme that takes inspiration from Default Dark Modern syntax highlights and Synthwave 84 purple tones.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I basically use the non-neon version base colors from Synthwave 84 with code syntax colors from the default Dark Modern VSCode Theme. 
+Additionally, I made some all around few tweaks to improve overrall visibility. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Note that I do not have review the theme for several programming languages, so if you find any visibility issues just open an issue and let's work together.
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## What's in the folder
 
-**Enjoy!**
+* This folder contains all of the files necessary for your color theme extension.
+* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
+* `themes/purple-haze-color-theme.json` - the color theme definition file.
+
+## Get up and running straight away
+
+* Press `F5` to open a new window with your extension loaded.
+* Open `File > Preferences > Color Themes` and pick your color theme.
+* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+
+## Make changes
+
+* Changes to the theme file are automatically applied to the Extension Development Host window.
+
+## Install your extension
+
+* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
