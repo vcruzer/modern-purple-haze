@@ -2,7 +2,7 @@
   "name": "modern-purple-haze",
   "displayName": "Modern Purple Haze",
   "description": "A Purple theme that takes inspiration from Default Dark Modern syntax highlights and Synthwave 84 purple tones",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Victor Cruz",
   "publisher": "vcruzer",
   "repository": {
@@ -16,7 +16,7 @@
     "purple",
     "dark"
   ],
-  "icon": "images/icon.jpg",
+  "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#C80000",
     "theme": "dark"
