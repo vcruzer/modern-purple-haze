@@ -1,10 +1,25 @@
 {
   "name": "modern-purple-haze",
-  "displayName": "modern-purple-haze",
+  "displayName": "Modern Purple Haze",
   "description": "A Purple theme that takes inspiration from Default Dark Modern syntax highlights and Synthwave 84 purple tones",
   "version": "0.0.1",
+  "author": "Victor Cruz",
+  "publisher": "vcruzer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vcruzer/modern-purple-haze.git"
+  },
   "engines": {
     "vscode": "^1.91.0"
+  },
+  "keywords": [
+    "purple",
+    "dark"
+  ],
+  "icon": "images/icon.jpg",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
@@ -17,5 +32,10 @@
         "path": "./themes/purple-haze-color-theme.json"
       }
     ]
+  },
+  "license": "https://github.com/vcruzer/modern-purple-haze/blob/main/LICENSE",
+  "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/vcruzer/modern-purple-haze/blob/main/README.md"
   }
 }
