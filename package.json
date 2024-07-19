@@ -1,0 +1,21 @@
+{
+  "name": "modern-purple-haze",
+  "displayName": "modern-purple-haze",
+  "description": "A Purple theme that takes inspiration from Default Dark Modern syntax highlights and Synthwave 84 purple tones",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Purple Haze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-haze-color-theme.json"
+      }
+    ]
+  }
+}
