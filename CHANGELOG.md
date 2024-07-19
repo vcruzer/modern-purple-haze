@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "purple-dark-modern" extension will be documented in this file.
+All notable changes to the "Modern Purple Haze" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0]
 
-- Initial release
+* Initial Release merging Synthwave Purple tones with Dark Modern
