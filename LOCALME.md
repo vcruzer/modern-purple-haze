@@ -2,10 +2,7 @@
 
 A Purple theme that takes inspiration from Default Dark Modern syntax highlights and Synthwave 84 purple tones.
 
-I basically use the non-neon version base colors from Synthwave 84 with code syntax colors from the default Dark Modern VSCode Theme. Additionally, I made some all-around tweaks to improve overall visibility.
-
-![](./images/showcase.png)
-
+Note that I do not have to review the theme for several programming languages, so if you find any visibility issues, just open an issue and let's work together.
 
 ## What's in the folder
 
